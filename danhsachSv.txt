@@ -1,3 +1,7 @@
 Danh sach:
 To la tuan anh ne
+<<<<<<< HEAD
 To la hong
+=======
+To la quan day
+>>>>>>> b034e2f18906a31499c472a8e2929077a83f8640
